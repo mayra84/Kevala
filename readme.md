@@ -5,8 +5,7 @@
 
 ## Notes
     1. No 3rd party packages were installed to read/write from the CSV. This was intentional as my goal was to achieve this without fast-csv, csv-parser, papaParse, etc 
-    2. There are additional CSV files in the repo that were used to test the program 
-    3. 
+    2. There are additional CSV files in the repo which were used to test the program 
 
 ## How to run the Program
     1. The program is run via the terminal and can be run with any of the 3 following commands: 
